@@ -1,0 +1,8 @@
+/build
+/.settings
+/.classpath
+/war/WEB-INF/appengine-generated
+.classpath
+*.class
+*.tmp
+*.jar
